@@ -48,6 +48,7 @@ ruby cracker.rb --url "http://example.com/login" --dictionary rockyou.txt
 Replace the URL with the login page you want to attack.
 
 3. Available Parameters 🔧
+
 --file: Path to the file you want to crack the password for. 📄
 
 --url: The URL of the login page to brute-force. 🌐
