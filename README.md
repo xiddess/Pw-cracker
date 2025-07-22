@@ -72,7 +72,7 @@ Step 1: Clone the Repository 🧑‍💻
 
 Clone this repository to your local machine:
 ```bash
-git clone https://github.com/username/password-cracker.git
+git clone https://github.com/xiddess/Pw-cracker
 cd password-cracker
 ```
 Step 2: Install Dependencies 📦
